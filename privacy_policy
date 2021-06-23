@@ -1,0 +1,40 @@
+
+Privacy Policy Of Screen Recorder
+
+Last modified: June 24, 2021
+
+1. WHAT PERMISSIONS WE USE IN AN APPLICATION
+
+Camera: Help an application record video or take photos if you don’t allow using this permission then an application will not work.
+
+Record Audio: Sound when you record video or record the screen. You can enable or disable in settings of an application.
+
+Read Phone State: Help an application as Wave Lock, Double Tap To Screen On/ Off disables when you have a new call coming or a new call outgoing.  All apps never use it outside the scope of features what having in-app.
+
+Write System Settings: Some features in an application need to write system settings to work so you need to allow an application to use otherwise an application can be crashed while working or can not work.
+
+Listen Boot Completed: Some applications as Wave Lock, Double Tap To Screen On/Off have “Start on Boot” feature, it helps you enable a feature after restarting the phone without reopening an application to enable.
+
+Device Administrator permission: Some applications like Wave Lock, Double Tap To Screen On/Off, Navigation Bar, Volume Unlock need to enable this feature so you can lock screen while using apps.
+
+Accessibility Service: The app needs this permission to can do action as back, home, recent task on the app Navigation Bar. Absolutely, we never use this permission outside the scope of an app.
+
+2. WHAT KIND OF INFORMATION WE COLLECT
+
+We do not collect personal information from any user. “Personal information” is private. All data what making from an app will save on your device. An app never backup or upload data or any users.
+
+Almost apps use Google Firebase Crashlytics to get bugs when an app crash. This helps a developer can improve an app better. Absolutely, all data and info of users always private.
+
+From Android 6.0 Android provides runtime permission manager. Users must grant permissions to apps while the app is running.
+
+3. WHAT ADVERTISING WE USE IN AN APPLICATION
+
+All advertising we use in the application is Admob Advertising Network of Google so It is safe and it is not a virus. An application does not show Advertising outside an application and policy compliance from Admob.
+
+4. CONTACTING US / REPORTING VIOLATIONS / REPORTING BUG
+
+If you have any questions or comments about this Policy or our privacy practices, or to report any violations of the Policy or abuse of an Application or any bug while using an Application please contact us at official.bharat.apps@gmail.com or on the fanpage
+
+5. CHANGES TO THIS PRIVACY POLICY
+
+We can change privacy policy anytime when an application needs to update a feature or it needs to use a permission. The policy cannot modify by a 3rd party.
